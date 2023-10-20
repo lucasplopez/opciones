@@ -1,0 +1,90 @@
+{
+  "Opciones": [
+    {
+      "id": 1,
+      "opcionPrev": "0",
+      "opcionActual": "1",
+      "msj": "Mensajes/Audios/Correos/Redes Sociales"
+    },
+    {
+      "id": 2,
+      "opcionPrev": "0",
+      "opcionActual": "2",
+      "msj": "Intimidación/Perturbación"
+    },
+    {
+      "id": 3,
+      "opcionPrev": "0",
+      "opcionActual": "3",
+      "msj": "Incumplimiento de medida"
+    },
+    {
+      "id": 4,
+      "opcionPrev": "0",
+      "opcionActual": "4",
+      "msj": "Aproximación"
+    },    
+    {
+      "id": 5,
+      "opcionPrev": "4",
+      "opcionActual": "4.1",
+      "msj": "En mi trabajo"
+    },
+    {
+      "id": 6,
+      "opcionPrev": "4",
+      "opcionActual": "4.2",
+      "msj": "En mi hogar"
+    },
+    {
+      "id": 7,
+      "opcionPrev": "4",
+      "opcionActual": "4.3",
+      "msj": "Otro"
+    }
+  ],
+  "Historial": [
+    {
+      "id": 1,
+      "fecha": "10/10/2023",
+      "hora": "08:30",
+      "tipo": "Texto",
+      "msj": "Lorem ipsum dolor sit amet consectetur."
+    },
+    {
+      "id": 2,
+      "fecha": "28/09/2023",
+      "hora": "20:17",
+      "tipo": "Imagen",
+      "msj": "Su imagen se ha enviado con éxito."
+    },
+    {
+      "id": 3,
+      "fecha": "27/09/2023",
+      "hora": "17:01",
+      "tipo": "Alerta",
+      "msj": "Usted ha dado alerta"
+    },
+    {
+      "id": 4,
+      "fecha": "06/10/2023",
+      "hora": "08:30",
+      "tipo": "Texto",
+      "msj": "Lorem ipsum dolor sit amet consectetur."
+    },
+    {
+      "id": 5,
+      "fecha": "28/09/2023",
+      "hora": "20:17",
+      "tipo": "Imagen",
+      "msj": "Su imagen se ha enviado con éxito."
+    },
+    {
+      "fecha": "28/09/2023",
+      "hora": "07:30",
+      "tipo": "Texto",
+      "msj": "Opcion 1 Opcion 1.1",
+      "id": 6
+    }
+  ]
+}
